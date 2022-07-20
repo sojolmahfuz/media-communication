@@ -1,0 +1,16 @@
+.all-public{
+    display: flex;
+    margin-top: 20px;
+}
+.journals{
+    width: 80%;
+    text-align: justify;
+    margin-left: 20px;
+}
+.technical-report{
+    text-align: justify;
+}
+.nav-logo{
+    width: 50%;
+    margin-left: 5%;
+}
